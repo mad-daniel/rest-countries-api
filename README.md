@@ -38,3 +38,5 @@ npm install
 ```
 npm start
 ```
+
+App is running on `http://localhost:3000`
